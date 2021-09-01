@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.boxdesign{
+    border: solid;
+    height: 150px;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 250px;
+    background-color: black;
+}
+.clock{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: gold;
+}
